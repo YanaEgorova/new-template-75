@@ -7,12 +7,7 @@
     text-align: center;
 }
 .cart__span-box {
-    background-color: var(--fifth-brand-color);
-    width: 8rem;
-    height: 8rem;
-    border-radius: 50%;
     justify-content: center;
-    margin: 0 auto;
 }
 .hero .title {
     margin-bottom: 1rem;
