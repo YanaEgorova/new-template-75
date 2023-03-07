@@ -12,4 +12,4 @@ export const purchaseTemplate = (products) => {
     
     result = result.join('');
     return result;
-}
+}Ъ
